@@ -1,8 +1,8 @@
 # vue-php-mysql
 ## call api by Axiso
-..
-npm install axiso
-..
+```
+npm install axios
+```
 
 ## Project setup
 ```
