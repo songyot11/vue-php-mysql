@@ -1,8 +1,12 @@
 # vue-php-mysql
+## call api by Axiso
+..
+npm install axiso
+..
 
 ## Project setup
 ```
-npm install
+npm install vue create [name_project]
 ```
 
 ### Compiles and hot-reloads for development
